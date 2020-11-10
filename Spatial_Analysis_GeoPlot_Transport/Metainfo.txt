@@ -1,10 +1,13 @@
-Name of QuantLet : geoplot_transport
+Name of QuantLet : spatial_analysis_geoplot_transport
 Published in : Master's Thesis
 Description : 'Map geographic linestring representations of public transport lines in the city of Berlin (data from VBB)'
 
 Keywords :
-- Spatial Plotting / Analysis
-- Berlin Data
+- Spatial Mapping
+- Geospatial Analysis
+- Berlin City Data
+- GeoPlot
+- GeoPandas
 
 Author : Alex Truesdale
 Submitted : Tuesday, November 10, 2020 by Alex Walker Truesdale

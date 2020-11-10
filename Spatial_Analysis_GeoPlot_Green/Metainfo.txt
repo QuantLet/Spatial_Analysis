@@ -1,10 +1,13 @@
-Name of QuantLet : geoplot_green_space
+Name of QuantLet : spatial_analysis_geoplot_green
 Published in : Master's Thesis
 Description : 'Map geographic polygons of green spaces in the city of Berlin (data from Berlin Senate)'
 
 Keywords :
-- Spatial Plotting / Analysis
-- Berlin Data
+- Spatial Mapping
+- Geospatial Analysis
+- Berlin City Data
+- GeoPlot
+- GeoPandas
 
 Author : Alex Truesdale
 Submitted : Tuesday, November 10, 2020 by Alex Walker Truesdale
