@@ -1,0 +1,11 @@
+Name of QuantLet : geoplot_bezirke
+Published in : Master's Thesis
+Description : 'Map geographic information on the municipal structure and historic divisions of Berlin'
+
+Keywords :
+- Spatial Plotting / Analysis
+- Berlin Data
+
+Author : Alex Truesdale
+Submitted : Tuesday, November 10, 2020 by Alex Walker Truesdale
+Example : 'Plot (map) spatial data points on a generated web map of Berlin.'

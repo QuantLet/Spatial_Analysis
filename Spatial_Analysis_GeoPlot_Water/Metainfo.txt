@@ -1,0 +1,11 @@
+Name of QuantLet : geoplot_water
+Published in : Master's Thesis
+Description : 'Map geographic polygons of waterways and bodies of water in the city of Berlin (data from Berlin Senate)'
+
+Keywords :
+- Spatial Plotting / Analysis
+- Berlin Data
+
+Author : Alex Truesdale
+Submitted : Tuesday, November 10, 2020 by Alex Walker Truesdale
+Example : 'Plot (map) spatial data polygons on a generated web map of Berlin.'
